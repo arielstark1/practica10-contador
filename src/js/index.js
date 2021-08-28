@@ -14,7 +14,7 @@ const SecondsCounter = props => {
 		<div className="container m-4 p-4">
 			<div className="row">
 				<h1 className="display-3 text-center m-3">
-					This is the time you have spent in this page
+					Este es el tiempo que pasas en la pagina
 				</h1>
 			</div>
 			<div className=" row bg-dark rounded border justify-content-md-center">
