@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 //include bootstrap npm library into the bundle
 import "bootstrap";
-import "@fortawesome/fontawesome-free/css/all.min.css";
+//import "@fortawesome/fontawesome-free/css/all.min.css";
 
 //include your index.scss file into the bundle
 import "../styles/index.scss";
